@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabrice Pestel</h1>
-<h3 align="center">transitioning into Web Development after completing, as of last, the Web Development bootcamp of Le Wagon.</h3>
+<h3 align="center">Transitioning into Web Development after completing, as of last, the Web Development bootcamp of Le Wagon.</h3>
 
 - 🔭 I’m currently working on [NextDive_](https://www.nextdive.xyz/)
 
